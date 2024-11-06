@@ -9,7 +9,7 @@ This project showcases a responsive pricing table created with HTML and CSS usin
 - [Credits](#credits)
 
 ## Demo
-To view the project, open `index.html` in your browser, or use this [GitHub Pages link](https://yourusername.github.io/your-repo-name).
+To view the project, open `index.html` in your browser, or use this [GitHub Pages link](https://katerynagurina.github.io/Project-Flexbox-Pricing-Table/).
 
 ## Features
 - **Responsive Design**: The pricing table adapts to various screen sizes using Flexbox and media queries.
